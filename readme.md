@@ -1,26 +1,26 @@
 <img src="compass_rose.jpeg" />
 
-This is a prototyping repo of text-mining and search methods developed for the COVID-19 document dataset from the Allen Ai institute.
+This is a prototyping repo of text-mining and search methods developed for the COVID-19 document dataset from the Allen Institute for Ai.
 Evaluation/tasks are still forthcoming from the Kaggle, but most of the problems seem more like SWE than ML:
 * what use cases address the needs of COVID-19 researchers
-* what generic search platforms or frameworks can get them information as rapidly as possible
+* what search methods or frameworks can retrieve/extract information as effectively as possible
 
 
-This repo is a demonstration of the use of vector-space language modeling using gensim to support the following use cases:
+This repo is a demonstration of vector-space language modeling with [Gensim](https://radimrehurek.com/gensim/), to support the following use cases:
 * semantic keyword search:
   * ranking relevant research papers using document vectors
   * 'also see...' suggestions
-  * user parameterized search: letting researchers find documents based on their own criteria, e.g. not tech exec's criteria.
+  * user-parameterized search: letting researchers find documents based on their own criteria, e.g. not the search-author's criteria.
 * knowledge/expert mapping:
   * network modeling of author expertise using language modeling. Essentially, given author X, link other author's whose expertise is most similar.
   * navigation/search of the expert-graph
-  * knowledge-cluster identification: e.g., who you should give your advertising fortune to
+  * knowledge-cluster identification: e.g., who should you give your advertising fortune to
 * cross-language search and paper translation
 
 
-These are fascinating topics, and easily implemented/supported by vector-space neural modeling methods like Gensim and others.
+Most of these are easily implemented/supported by vector-space neural modeling methods like Gensim.
 I do not have the resources to work on this project diligently, so feel free to use it for reference.
-Contact me if you would like development work, I'll be glad to help in any way I can.
+If you would like development work, I'll be glad to help in any way I can.
 
 Links:
 * https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
