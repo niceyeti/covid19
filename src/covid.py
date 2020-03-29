@@ -404,7 +404,7 @@ def main():
 	modelPath = "../models/covid_temp.w2v"
 
 	if not os.path.isfile(modelPath):
-		print("No existing model found at {}. Building new model. Better grab a movie, this may take a while...")
+		print("No existing model found at {}. Building new model. Best grab a movie, this may take a while...")
 		vecModel = buildWordVectorModel(dataDir, modelPath)
 
 	vecModel = loadVectorModel(modelPath)
