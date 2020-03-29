@@ -39,6 +39,6 @@ its terms. A command line query loop then accepts input terms from the user, and
 per the query using cosine-similarity.
 
 
-COVID-19 is *not the end of the world*, and for that matter nothing is, when we inspire confidence in others, think positively, and seek ways to contribute. [So let's get to work.](https://www.youtube.com/watch?v=cCYGyg1H56s).
+COVID-19 is *not the end of the world*, and for that matter nothing is, when we inspire confidence in others, think positively, and seek ways to contribute. [So let's get to work.](https://www.youtube.com/watch?v=cCYGyg1H56s)
 
 
