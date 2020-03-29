@@ -1,12 +1,12 @@
 <img src="compass_rose.jpeg" />
 
-This is a prototyping repo of text-mining and search methods developed for the COVID-19 dataset from the Allen Ai institute.
+This is a prototyping repo of text-mining and search methods developed for the COVID-19 document dataset from the Allen Ai institute.
 Evaluation/tasks are still forthcoming from the Kaggle, but most of the problems seem more like SWE than ML:
 * what use cases address the needs of COVID-19 researchers
 * what generic search platforms or frameworks can get them information as rapidly as possible
 
 
-This repo is purely a demonstration of the use of vector-space language modeling using gensim to support the following use cases:
+This repo is a demonstration of the use of vector-space language modeling using gensim to support the following use cases:
 * semantic keyword search:
   * ranking relevant research papers using document vectors
   * 'also see...' suggestions
@@ -39,6 +39,6 @@ its terms. A command line query loop then accepts input terms from the user, and
 per the query using cosine-similarity.
 
 
-COVID-19 is *not the end of the world*, and for that matter nothing is, if we inspire confidence in others, think positive, and seek ways to contribute. [So let's get to work.](https://www.youtube.com/watch?v=cCYGyg1H56s).
+COVID-19 is *not the end of the world*, and for that matter nothing is, when we inspire confidence in others, think positively, and seek ways to contribute. [So let's get to work.](https://www.youtube.com/watch?v=cCYGyg1H56s).
 
 
