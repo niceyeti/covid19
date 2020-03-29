@@ -1,0 +1,25 @@
+LICENSE INFO
+
+This repo is intended to contribute to covid-19 research, which can only be done with generous licensing.
+
+Like gensim, this code is covered under LGPL 2.1. Any other libraries linked/imported are protected
+under their respective licenses. Use whatever you like, or contact me for other functionality; I only
+wish to protect the pre-existing license rights of any libraries I'm using, not encumber anyone from using
+or modifying this code.
+
+Gensim Bibtex citation:
+
+	@inproceedings{rehurek_lrec,
+		  title = {{Software Framework for Topic Modelling with Large Corpora}},
+		  author = {Radim {\v R}eh{\r u}{\v r}ek and Petr Sojka},
+		  booktitle = {{Proceedings of the LREC 2010 Workshop on New
+		       Challenges for NLP Frameworks}},
+		  pages = {45--50},
+		  year = 2010,
+		  month = May,
+		  day = 22,
+		  publisher = {ELRA},
+		  address = {Valletta, Malta},
+		  note={\url{http://is.muni.cz/publication/884893/en}},
+		  language={English}
+	}
